@@ -2,7 +2,7 @@ node_modules
 .env
 ./dist
 /extensions/*
-themes
+theme
 .idea/*
 .evershop
 .vscode
